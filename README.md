@@ -43,5 +43,5 @@ The main purpose of the system is to:
 
 # ER Diagram:
 
-![Image ERD]()
+![](https://github.com/anwesh90/Hospital-Management-System/blob/master/ERD/Physical_DataModel.png)
 
